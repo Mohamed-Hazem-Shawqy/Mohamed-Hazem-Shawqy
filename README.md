@@ -15,4 +15,4 @@ I'm a flutter developer who loves to learn about new things. Connect with me on 
 - flutter
 - State mangement(cubit) 
 - firebase
-- Local Storage (Shared prefrence,sqllite)
+- Local Storage (Shared prefrence,SQLite)
