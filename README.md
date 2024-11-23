@@ -4,7 +4,8 @@
 I'm a flutter developer who loves to learn about new things. Connect with me on LinkedIn.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](www.linkedin.com/in/mohamed-hazem-12951625a)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-hazem-12951625a)
+](www.linkedin.com/in/mohamed-hazem-12951625a)
 
 
 
