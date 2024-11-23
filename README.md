@@ -12,7 +12,8 @@ I'm a flutter developer who loves to learn about new things. Connect with me on 
 
 ## ⚡ Skills:
 - Dart
-- flutter
-- State mangement(cubit) 
+- flutter widgets
+- State management(bloc,cubit) 
 - firebase
 - Local Storage (Shared prefrence,SQLite)
+- Restful API
