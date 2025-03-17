@@ -7,6 +7,7 @@ I'm a flutter developer who loves to learn about new things. Connect with me on 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-hazem-12951625a/)](https://www.linkedin.com/in/mohamed-hazem-12951625a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-hazem-12951625a/)](https://www.linkedin.com/in/mohamed-hazem-12951625a/)
 
 
 
@@ -17,3 +18,4 @@ I'm a flutter developer who loves to learn about new things. Connect with me on 
 - firebase
 - Local Storage (Shared prefrence,SQLite)
 - Restful API
+- MVVM
