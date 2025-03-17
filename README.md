@@ -7,8 +7,7 @@ I'm a flutter developer who loves to learn about new things. Connect with me on 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-hazem-12951625a/)](https://www.linkedin.com/in/mohamed-hazem-12951625a/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/mohamed-hazem-12951625a/)](https://www.linkedin.com/in/mohamed-hazem-12951625a/)
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:engmido1002@gmail.com)](mailto:engmido1002@gmail.com)
 
 
 ## ⚡ Skills:
